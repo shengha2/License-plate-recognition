@@ -11,7 +11,7 @@ The recognition modes:
 3. Video Rec: select corresponding video file, video will display on screen, OSD will superimposed, use mouse draw recognition area on the screen,  press the "s" to start processing, recognition automatically 
 
   
-Notice：
+Notice:
 1. Best recognition result attend when LP PixelWidth around 120 px, might come no result if far beyond it.
 2. LP PixelWidth has to be multiple of 4
 3.Please install “plug in” if software failed to active.
